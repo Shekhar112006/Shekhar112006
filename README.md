@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Shekhar 👋
 
-<!--
-**Shekhar112006/Shekhar112006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year AI & Data Science student.
 
-Here are some ideas to get you started:
+🚀 Skills:
+- Python
+- Machine Learning
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Projects:
+- house_price_prediction
+- iris_flower_classification_model
+
+📫 Connect: [LinkedIn link]
