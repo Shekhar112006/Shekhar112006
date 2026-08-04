@@ -21,7 +21,8 @@
 * Iris Flower Classification Model
 * AI/ML Learning Projects
 * LogPulse - Log Monitoring & Analytics System
-* SysWatch - Linux Monitoring System (v1)
+* SysWatch - Linux Monitoring System (v1)( in progress ...)
+* Multi-Agent Research Intelligence Platform ( in progress ...)
 
 📚 I enjoy learning how real-world systems are built, deployed, and scaled—from training machine learning models to deploying them in production environments.
 
